@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "E8xbHkvYZ+0=",
+  "success": true,
+  "projectFilePath": "/Users/pbootly/workspace/personal/to-prod-finity-and-beyond/dotnet/dotnet.Api/dotnet.Api.csproj",
+  "expectedPackageFiles": [
+    "/Users/pbootly/.nuget/packages/microsoft.aspnetcore.openapi/10.0.3/microsoft.aspnetcore.openapi.10.0.3.nupkg.sha512",
+    "/Users/pbootly/.nuget/packages/microsoft.openapi/2.0.0/microsoft.openapi.2.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

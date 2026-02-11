@@ -1,0 +1,16 @@
+/Users/pbootly/workspace/personal/to-prod-finity-and-beyond/dotnet/dotnet.Application/bin/Debug/net10.0/dotnet.Application.deps.json
+/Users/pbootly/workspace/personal/to-prod-finity-and-beyond/dotnet/dotnet.Application/bin/Debug/net10.0/dotnet.Application.dll
+/Users/pbootly/workspace/personal/to-prod-finity-and-beyond/dotnet/dotnet.Application/bin/Debug/net10.0/dotnet.Application.pdb
+/Users/pbootly/workspace/personal/to-prod-finity-and-beyond/dotnet/dotnet.Application/bin/Debug/net10.0/dotnet.Domain.dll
+/Users/pbootly/workspace/personal/to-prod-finity-and-beyond/dotnet/dotnet.Application/bin/Debug/net10.0/dotnet.Domain.pdb
+/Users/pbootly/workspace/personal/to-prod-finity-and-beyond/dotnet/dotnet.Application/obj/Debug/net10.0/dotnet.Application.csproj.AssemblyReference.cache
+/Users/pbootly/workspace/personal/to-prod-finity-and-beyond/dotnet/dotnet.Application/obj/Debug/net10.0/dotnet.Application.GeneratedMSBuildEditorConfig.editorconfig
+/Users/pbootly/workspace/personal/to-prod-finity-and-beyond/dotnet/dotnet.Application/obj/Debug/net10.0/dotnet.Application.AssemblyInfoInputs.cache
+/Users/pbootly/workspace/personal/to-prod-finity-and-beyond/dotnet/dotnet.Application/obj/Debug/net10.0/dotnet.Application.AssemblyInfo.cs
+/Users/pbootly/workspace/personal/to-prod-finity-and-beyond/dotnet/dotnet.Application/obj/Debug/net10.0/dotnet.Application.csproj.CoreCompileInputs.cache
+/Users/pbootly/workspace/personal/to-prod-finity-and-beyond/dotnet/dotnet.Application/obj/Debug/net10.0/dotnet.Application.sourcelink.json
+/Users/pbootly/workspace/personal/to-prod-finity-and-beyond/dotnet/dotnet.Application/obj/Debug/net10.0/dotnet.A.E14C7786.Up2Date
+/Users/pbootly/workspace/personal/to-prod-finity-and-beyond/dotnet/dotnet.Application/obj/Debug/net10.0/dotnet.Application.dll
+/Users/pbootly/workspace/personal/to-prod-finity-and-beyond/dotnet/dotnet.Application/obj/Debug/net10.0/refint/dotnet.Application.dll
+/Users/pbootly/workspace/personal/to-prod-finity-and-beyond/dotnet/dotnet.Application/obj/Debug/net10.0/dotnet.Application.pdb
+/Users/pbootly/workspace/personal/to-prod-finity-and-beyond/dotnet/dotnet.Application/obj/Debug/net10.0/ref/dotnet.Application.dll

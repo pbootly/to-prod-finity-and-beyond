@@ -1,0 +1,12 @@
+/Users/pbootly/workspace/personal/to-prod-finity-and-beyond/dotnet/dotnet.Domain/bin/Debug/net10.0/dotnet.Domain.deps.json
+/Users/pbootly/workspace/personal/to-prod-finity-and-beyond/dotnet/dotnet.Domain/bin/Debug/net10.0/dotnet.Domain.dll
+/Users/pbootly/workspace/personal/to-prod-finity-and-beyond/dotnet/dotnet.Domain/bin/Debug/net10.0/dotnet.Domain.pdb
+/Users/pbootly/workspace/personal/to-prod-finity-and-beyond/dotnet/dotnet.Domain/obj/Debug/net10.0/dotnet.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/pbootly/workspace/personal/to-prod-finity-and-beyond/dotnet/dotnet.Domain/obj/Debug/net10.0/dotnet.Domain.AssemblyInfoInputs.cache
+/Users/pbootly/workspace/personal/to-prod-finity-and-beyond/dotnet/dotnet.Domain/obj/Debug/net10.0/dotnet.Domain.AssemblyInfo.cs
+/Users/pbootly/workspace/personal/to-prod-finity-and-beyond/dotnet/dotnet.Domain/obj/Debug/net10.0/dotnet.Domain.csproj.CoreCompileInputs.cache
+/Users/pbootly/workspace/personal/to-prod-finity-and-beyond/dotnet/dotnet.Domain/obj/Debug/net10.0/dotnet.Domain.sourcelink.json
+/Users/pbootly/workspace/personal/to-prod-finity-and-beyond/dotnet/dotnet.Domain/obj/Debug/net10.0/dotnet.Domain.dll
+/Users/pbootly/workspace/personal/to-prod-finity-and-beyond/dotnet/dotnet.Domain/obj/Debug/net10.0/refint/dotnet.Domain.dll
+/Users/pbootly/workspace/personal/to-prod-finity-and-beyond/dotnet/dotnet.Domain/obj/Debug/net10.0/dotnet.Domain.pdb
+/Users/pbootly/workspace/personal/to-prod-finity-and-beyond/dotnet/dotnet.Domain/obj/Debug/net10.0/ref/dotnet.Domain.dll

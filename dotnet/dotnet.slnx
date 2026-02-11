@@ -1,0 +1,9 @@
+<Solution>
+  <Project Path="dotnet.Api/dotnet.Api.csproj" />
+  <Project Path="dotnet.Application/dotnet.Application.csproj" />
+  <Project Path="dotnet.Domain/dotnet.Domain.csproj" />
+  <Project Path="dotnet.Infrastructure/dotnet.Infrastructure.csproj" />
+  <Project Path="dotnet.Tests.Api/dotnet.Tests.Api.csproj" />
+  <Project Path="dotnet.Tests.Application/dotnet.Tests.Application.csproj" />
+  <Project Path="dotnet.Tests.Domain/dotnet.Tests.Domain.csproj" />
+</Solution>
